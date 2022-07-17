@@ -1,2 +1,2 @@
-# dotbatProject
+# .bat Project
 mydotbatProject
